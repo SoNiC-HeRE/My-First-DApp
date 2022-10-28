@@ -4,7 +4,7 @@ First DApp made using  Remix,Html,Css,Javascript and Remix
 
 
 Steps:
-1)Created a basic html file for frontend part
+1)Created a basic html file for frontend part <br>
 2)Changed Metamask network to Goerli Test-Network and Requested test tokens from faucet.
 3)Created a smart contract on Remix with environment set to Metamask
 4)Deployed and tested smart contract
