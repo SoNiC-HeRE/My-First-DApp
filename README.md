@@ -1,5 +1,5 @@
 # My-First-DApp
-First DApp made using  Remix,Html,Css,Javascript and Remix
+First DApp made using  Remix,Html,Css,Javascript and Solidity
 
 
 
